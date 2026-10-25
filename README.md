@@ -51,7 +51,7 @@ I'm **Foxy**, a creative developer who enjoys building Telegram bots, experiment
 
 *where code meets creativity.* ✨
 
-[![Foxry HQ](https://img.shields.io/badge/Foxry_HQ-Updates-F4A7C0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FoxryHQ)
+[![Foxry](https://img.shields.io/badge/Foxry_HQ-Updates-F4A7C0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FoxryHQ)
 [![Foxry Chat](https://img.shields.io/badge/Foxry_Chat-Community-E8A2B8?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FoxryChat)
 
 <br/>
