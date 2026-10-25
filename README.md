@@ -1,11 +1,5 @@
 <div align="center">
 
-<img src="./foxy-banner.png" width="100%" alt="Foxy Banner">
-
-</div>
-
-<div align="center">
-
 <img src="./foxy-banner.png" width="100%" alt="Foxy — soft pink anime developer banner" />
 
 <br/><br/>
@@ -45,11 +39,11 @@ I'm **Foxy**, a creative developer who enjoys building Telegram bots, experiment
 
 ### ୨୧ my coding diary
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=FFF5F8&title_color=D48DA5&text_color=866C78&icon_color=E8A2B8" width="420" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=FoxyPookie&show_icons=true&hide_border=true&bg_color=FFF5F8&title_color=D48DA5&text_color=866C78&icon_color=E8A2B8" width="420" alt="GitHub statistics" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=FFF5F8&title_color=D48DA5&text_color=866C78" width="350" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoxyPookie&layout=compact&hide_border=true&bg_color=FFF5F8&title_color=D48DA5&text_color=866C78" width="350" alt="Top languages" />
 
 <br/><br/>
 
