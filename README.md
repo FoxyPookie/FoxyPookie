@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="./foxy-banner.png" width="100%" alt="Foxy Banner">
+
+</div>
+
+<div align="center">
+
 <img src="./foxy-banner.png" width="100%" alt="Foxy — soft pink anime developer banner" />
 
 <br/><br/>
